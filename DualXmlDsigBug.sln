@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualXmlDsigBug", "DualXmlDsigBug\DualXmlDsigBug.csproj", "{463244D5-2D9B-4C21-8691-8174913997F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreConsole", "NetCoreConsole\NetCoreConsole.csproj", "{A60E46D9-9A88-453C-9704-58C827864797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFxConsole", "NetFxConsole\NetFxConsole.csproj", "{250A0BCB-8794-4480-B39E-43F3369D194C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{463244D5-2D9B-4C21-8691-8174913997F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{463244D5-2D9B-4C21-8691-8174913997F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{463244D5-2D9B-4C21-8691-8174913997F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60E46D9-9A88-453C-9704-58C827864797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60E46D9-9A88-453C-9704-58C827864797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60E46D9-9A88-453C-9704-58C827864797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60E46D9-9A88-453C-9704-58C827864797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250A0BCB-8794-4480-B39E-43F3369D194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250A0BCB-8794-4480-B39E-43F3369D194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250A0BCB-8794-4480-B39E-43F3369D194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250A0BCB-8794-4480-B39E-43F3369D194C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
